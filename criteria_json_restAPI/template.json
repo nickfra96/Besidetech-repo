@@ -1,0 +1,125 @@
+{
+    "userCriteria": {
+        "A1.1": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "A1.2": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "A1.3": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "B1.1": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "B2.1": {
+            "maxPunti": 5,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "B2.2": {
+            "maxPunti": 5,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "C1.1": {
+            "maxPunti": 5,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "C2.1": {
+            "maxPunti": 2,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": true,
+            "rating": 0,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "C2.2": {
+            "maxPunti": 8,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": true,
+            "rating": 0,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "C3.1": {
+            "maxPunti": 5,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "D1.1": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "D1.2": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "D2.1": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        },
+        "E1.1": {
+            "maxPunti": 10,
+            "minPunti": 0,
+            "testo": "",
+            "onOff": false,
+            "oggettivo": false,
+            "descrizione": ""
+        }
+    },
+    "propostaBando": "  ",
+    "idAvviso": "6847e676dd66fe11c7b74e48",
+    "idDomanda": "91239",
+    "soggetto": "",
+    "feedbackMode": false,
+    "attachmentFiles": null,
+    "isReevaluate": false
+}

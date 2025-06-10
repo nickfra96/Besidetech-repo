@@ -1,0 +1,6 @@
+python3 criteria_json_rest.py \       
+  --excel-dir ./excel \
+  --template ./template.json \
+  --out-dir ./json \
+  --endpoint "https://fincalabra-api-test.besidetech.it/v1/core/evaluate" \
+  --token ""
